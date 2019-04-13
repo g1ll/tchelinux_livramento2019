@@ -1,0 +1,11 @@
+\beamer@sectionintoc {1}{Instala\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Download da ISO/ZIP}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Pendrive de boot no Win}{9}{0}{1}
+\beamer@subsectionintoc {1}{3}{Pendrive de boot no Linux}{17}{0}{1}
+\beamer@sectionintoc {2}{Parti\IeC {\c c}\IeC {\~o}es de Disco no Linux}{23}{0}{2}
+\beamer@subsectionintoc {2}{1}{Nomes de Parti\IeC {\c c}\IeC {\~o}es}{24}{0}{2}
+\beamer@subsectionintoc {2}{2}{Sistemas de Arquivos}{32}{0}{2}
+\beamer@sectionintoc {3}{Backup de Parti\IeC {\c c}\IeC {\~o}es}{34}{0}{3}
+\beamer@subsectionintoc {3}{1}{Tutorial de Backup de uma Parti\IeC {\c c}\IeC {\~a}o}{35}{0}{3}
+\beamer@sectionintoc {4}{Restaura\IeC {\c c}\IeC {\~a}o de Parti\IeC {\c c}\IeC {\~o}es}{73}{0}{4}
+\beamer@subsectionintoc {4}{1}{Tutorial de Restaura\IeC {\c c}\IeC {\~a}o de uma Parti\IeC {\c c}\IeC {\~a}o}{74}{0}{4}
